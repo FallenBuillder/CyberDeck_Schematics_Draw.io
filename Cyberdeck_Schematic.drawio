@@ -370,6 +370,12 @@
             <mxPoint x="1900" y="1359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dbD3cyStfzAGDS6KlF5t-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" value="&lt;div&gt;We will be removing the chargers&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="420" x="1420" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="dbD3cyStfzAGDS6KlF5t-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" value="WE will be buying a big ass battery&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="530" x="1370" y="800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
